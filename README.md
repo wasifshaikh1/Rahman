@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wasifshaikh1
+- 👋 Hi, I’m @Rahman
 - 👀 I’m interested in python,web development ,app development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
